@@ -1,2 +1,2 @@
-# blackabalone
-Historical changes in black abalone, Monterey Bay, CA
+# black_abalone
+Historical changes in black abalone, central California
